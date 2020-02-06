@@ -1,0 +1,7 @@
+org\nipu\po\order\ProductOrderRepository.class
+org\nipu\po\order\ProductOrder.class
+org\nipu\po\catalog\ProductSpecificationRepository.class
+org\nipu\po\ServletInitializer.class
+org\nipu\po\PoApplication.class
+org\nipu\po\catalog\ProductSpecification.class
+org\nipu\po\order\OrderController.class
